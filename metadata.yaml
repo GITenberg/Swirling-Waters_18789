@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '8251'
     url: http://www.gutenberg.org/2009/agents/8251
 description: Cover -- Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18789#Swirling-Waters
 gutenberg_issued: '2006-07-08'
 gutenberg_type: Text
 identifiers:
